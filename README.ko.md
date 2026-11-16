@@ -34,7 +34,7 @@
 
 필요한 것: Apple Silicon 맥, macOS 14.4 이상.
 
-Lunhand는 하루에 한 번 업데이트를 확인합니다. 지우려면 터미널에서 `/Applications/Lunhand.app/Contents/Resources/uninstall.sh`를
+Lunhand는 하루에 한 번 업데이트를 확인하고, 설정 창 맨 아래 'Check for Updates'를 누르면 바로 확인합니다. 지우려면 터미널에서 `/Applications/Lunhand.app/Contents/Resources/uninstall.sh`를
 실행합니다. 이때 이 맥이 쓰던 라이선스 자리도 풀립니다.
 
 ## 설치 전에 확인하세요

@@ -34,7 +34,7 @@ This repository is where Lunhand's installers are published. The source code is 
 
 Requirements: an Apple silicon Mac with macOS 14.4 or later.
 
-Lunhand checks for updates once a day. To remove it, run `/Applications/Lunhand.app/Contents/Resources/uninstall.sh`
+Lunhand checks for updates once a day, and Check for Updates at the bottom of the settings window checks right away. To remove it, run `/Applications/Lunhand.app/Contents/Resources/uninstall.sh`
 in Terminal. This also frees the Mac's place on your license key.
 
 ## Before you install
