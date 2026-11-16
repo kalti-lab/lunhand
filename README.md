@@ -24,6 +24,9 @@
   <sub>Four AI sessions work at the same time, each in its own app and with its own cursor color: one adds up hours in Calculator, one types a to-do list in TextEdit, one reads kalti.co.kr in Chrome, and one draws a moon and hills in Freeform (virtual cursor on, 2× speed, 20 seconds).</sub>
 </p>
 
+Works with Claude Code, Claude Desktop, Codex, the Antigravity CLI and other MCP clients. Lunhand connects itself to the
+ones it finds on your Mac, and the setup window turns each on or off.
+
 This repository is where Lunhand's installers are published. The source code is not public.
 
 ## Install
